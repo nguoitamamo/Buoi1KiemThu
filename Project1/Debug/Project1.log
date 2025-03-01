@@ -1,2 +1,11 @@
 ﻿  Source.cpp
-  Project1.vcxproj -> D:\Project1\Debug\Project1.exe
+D:\BTTH1\Buoi1KiemThu\Project1\Source.cpp(47,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\BTTH1\Buoi1KiemThu\Project1\Source.cpp(47,13): warning C4566: character represented by universal-character-name '\u1ED9' cannot be represented in the current code page (1252)
+D:\BTTH1\Buoi1KiemThu\Project1\Source.cpp(47,13): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\BTTH1\Buoi1KiemThu\Project1\Source.cpp(52,25): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\BTTH1\Buoi1KiemThu\Project1\Source.cpp(52,25): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\BTTH1\Buoi1KiemThu\Project1\Source.cpp(55,25): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\BTTH1\Buoi1KiemThu\Project1\Source.cpp(55,25): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\BTTH1\Buoi1KiemThu\Project1\Source.cpp(55,25): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+  LINK : D:\BTTH1\Buoi1KiemThu\Debug\Project1.exe not found or not built by the last incremental link; performing full link
+  Project1.vcxproj -> D:\BTTH1\Buoi1KiemThu\Debug\Project1.exe
