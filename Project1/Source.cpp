@@ -47,13 +47,7 @@ int main() {
     cout << "Nhap vao mot nam ";
     cin >> year;
 
-    // Kiểm tra và in kết quả
-    if (isLeapYear(year)) {
-        cout << year << " la nam nhuan." << endl;
-    }
-    else {
-        cout << year << " khong phai la nam nhuan." << endl;
-    }
+  
 
 
 
