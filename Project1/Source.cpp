@@ -37,11 +37,7 @@ bool isLeapYear(int year) {
 
 int main() {
 
-
-	int m;
-	cin >> m;
-	cout << CheckSprim(m);
-    int year;
+::i
 
     // Nhập năm từ người dùng
     cout << "Nhap vao mot nam ";
